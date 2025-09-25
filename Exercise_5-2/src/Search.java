@@ -122,7 +122,7 @@ public class Search {
 
 
     /**
-     * Performs an Iterative Deepening Depth-First Search (IDDFS) to find the target value.
+     * Performs an Iterative Depth-First Search (IDFS) to find the target value.
      * Repeatedly performs Depth-Limited Search (DLS) with increasing depth limits until the goal is found
      * or the maximum depth is reached.
      * Uses a LIFO stack for the search frontier.
