@@ -1,6 +1,18 @@
 # Compiled class file
 *.class
 
+# IDE & Workspace
+/.idea/
+/.metadata/
+
+/Assignment01/
+
+*.classpath
+*.project
+*.settings/
+bin/
+out/
+
 # Log file
 *.log
 
